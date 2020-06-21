@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC1G66
+D Single Analog Switch
+K CMOS SWITCH
+$ENDCMP
+#
+$CMP 74LVC1G80
+D Single D Flip-flop, Inverted Output
+$ENDCMP
+#
+$CMP 74VHC1G32
+D Single 2-input OR
+K TTL Or2
+$ENDCMP
+#
+$CMP ASCO
+D Crystal Clock Oscillator, Abracon ASCO
+K Crystal Clock Oscillator
+F https://abracon.com/Oscillators/ASCO.pdf
+$ENDCMP
+#
+#End Doc Library
